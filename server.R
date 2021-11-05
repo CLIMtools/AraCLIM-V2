@@ -6,25 +6,25 @@ library(leaflet.extras)
 library(dplyr)
 
 shinyServer(function(input, output) {
-  credentials <- shinyauthr::loginServer(
-    id = "login",
-    data = user_base,
-    user_col = user,
-    pwd_col = password,
-    log_out = reactive(logout_init())
-  )
+  # credentials <- shinyauthr::loginServer(
+  #   id = "login",
+  #   data = user_base,
+  #   user_col = user,
+  #   pwd_col = password,
+  #   log_out = reactive(logout_init())
+  # )
   
   # call the logout module with reactive trigger to hide/show
-  logout_init <- shinyauthr::logoutServer(
-    id = "logout",
-    active = reactive(credentials()$user_auth)
-  )
-  
-  output$user_table <- renderTable({
-    # use req to only render results when credentials()$user_auth is TRUE
-    req(credentials()$user_auth)
-    credentials()$info
-  })
+  # logout_init <- shinyauthr::logoutServer(
+  #   id = "logout",
+  #   active = reactive(credentials()$user_auth)
+  # )
+  #
+  # output$user_table <- renderTable({
+  #   # use req to only render results when credentials()$user_auth is TRUE
+  #   req(credentials()$user_auth)
+  #   credentials()$info
+  # })
   
   output$map <- renderLeaflet({
     print('render map')
@@ -68,8 +68,8 @@ shinyServer(function(input, output) {
     
   })
   
-  output$yvar <- renderUI(selectInput('yvar',label='Environmental variable B',choices = datasets[['cats']], selected='NASA: SRTM elevation (m)'))
-  output$xvar <- renderUI(selectInput('xvar',label='Environmental variable A (mapped)',choices = datasets[['cats']], selected='Solar insolation spring (W/m2)'))
+  output$yvar <- renderUI(selectInput('yvar',label='Environmental variable B',choices = datasets[['cats']], selected='SRTM 90m Digital Elevation Database v4.1 (m)'))
+  output$xvar <- renderUI(selectInput('xvar',label='Environmental variable A (mapped)',choices = datasets[['cats']], selected='CERES Solar insolation spring (W/m2)'))
   
   xVar <- reactive({
     print('xVar')
