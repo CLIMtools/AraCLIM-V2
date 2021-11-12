@@ -14,14 +14,12 @@ Moderate-resolution_imaging_spectroradiometer_(MODIS):_MOD16A2
 Moderate-resolution_imaging_spectroradiometer_(MODIS):_MOD17A2
 GTOPO30
 NASA_Shuttle_Radar_Topographic_Mission_(SRTM)
-AVHRR_Vegetation_Health_Product_(NOAA_STAR)
 The_International_Satellite_Land_Surface_Climatology_Project_(ISLSCP_II)
 WORLD_BANK_Global_Solar_Atlas
 GPCC_Global_Precipitation_Climatology_Centre__Full_Data_Reanalysis_Version_7
 WorldClim_Version2
 CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)
 CHELSA_(Climatologies_at_high_resolution_for_the_ç_land_surface_areas)
-Consortium_for_Spatial_Information_(CGIAR-CSI)._CRU-TS_v3.10.01_Historic_Climate_Database_for_GIS
 ETOPO1
 FAO_World_maps_of_climatological_net_primary_production_of_biomass
 FAO_Koeppen_Climatology
@@ -31,19 +29,19 @@ ISRIC_Soilgrids
 FAO_Global_Agro-ecological_Zones_Assessment_for_Agriculture_(GAEZ_2008)
 Global_Distribution_of_Plant-Extractable_Water_Capacity_of_Soil
 Nelson_institute_Atlas of the Biosphere 
-Bailey Ecoregions
-IFORCE_Global_land_cover_2000
-ISLSCP II UNIVERSITY OF MARYLAND GLOBAL LAND COVER CLASSIFICATIONS
-Global Distribution of Cultivation Intensity
-Koppen-Geiger climate classification
-Geological ages based on the surface geology
+
 Nitrogen Deposition onto the United States and Western Europe
+Global Gridded 1-km Annual Soil Respiration and Uncertainty Derived from SRDB V3
+EARTHSTAT
+ISRIC_World_Soil_information
 MERRAclim:_high-resolution_global_dataset_of_remotely_sensed_bioclimatic_variables_for_ecological_modelling
-Global aboveground and belowground biomass carbon density maps for the year 2010
-ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0
+UNH Global Ecology Group Data Repository
+CGIAR_CSI_Global aridity and potential evapotranspiration climate database
+Consortium_for_Spatial_Information_(CGIAR-CSI)._CRU-TS_v3.10.01_Historic_Climate_Database_for_GIS
 GPP from Vegetation Photosynthesis Model
 ESA CCI Biomass Climate Change Initiative (CCI) 
 NASA’s Goddard Institute for Space Studies’ (GISS)
+AVHRR_Vegetation_Health_Product_(NOAA_STAR)
 NTSG_UMT_MODIS_Global_Terrestrial_Drought_Severity_Index
 Soil_salinity_Ece_10.17632_v9mgbmtnf2.1
 Soil_sodicity_ESP_10.17632_v9mgbmtnf2.1
@@ -51,9 +49,6 @@ USGS EROS Archive
 SRTM 90m Digital Elevation Database v4.1
 ASTER GDEM V3
 ODIAC Fossil Fuel CO2 Emissions Dataset
-Global Gridded 1-km Annual Soil Respiration and Uncertainty Derived from SRDB V3
-EARTHSTAT
-ISRIC_World_Soil_information
-UNH Global Ecology Group Data Repository
-CGIAR_CSI_Global aridity and potential evapotranspiration climate database
+Global aboveground and belowground biomass carbon density maps for the year 2010
+ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0
 NASAs Ocean Biology Processing Group
