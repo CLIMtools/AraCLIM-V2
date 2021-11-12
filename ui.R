@@ -10,11 +10,11 @@ library(shinycssloaders)
 
 shinyUI(fluidPage(
   # add logout button UI
-  div(class = "pull-right", shinyauthr::logoutUI(id = "logout")),
+  # div(class = "pull-right", shinyauthr::logoutUI(id = "logout")),
   # add login panel UI function
-  shinyauthr::loginUI(id = "login"),
+  # shinyauthr::loginUI(id = "login"),
   # setup table output to show user info after login
-  tableOutput("user_table"),
+  # tableOutput("user_table"),
 
 
   # Add Javascript

@@ -12,14 +12,14 @@ require(rgdal)
 require(Cairo)
 library(sp)
 library(htmltools)
-library(shinyauthr)
+# library(shinyauthr)
 # dataframe that holds usernames, passwords and other user data
-user_base <- tibble::tibble(
-  user = c("user1", "user2"),
-  password = c("pass1", "pass2"),
-  permissions = c("reviewer", "standard"),
-  name = c("reviewer", "User Two")
-)
+# user_base <- tibble::tibble(
+#   user = c("user1", "user2"),
+#   password = c("pass1", "pass2"),
+#   permissions = c("reviewer", "standard"),
+#   name = c("reviewer", "User Two")
+# )
 
 
 readfile <- read.csv("data/AraCLIM_FINAL_CLIMools_V2.csv",row.names = NULL)
