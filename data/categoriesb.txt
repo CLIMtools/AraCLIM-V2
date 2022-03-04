@@ -29,7 +29,6 @@ ISRIC_Soilgrids
 FAO_Global_Agro-ecological_Zones_Assessment_for_Agriculture_(GAEZ_2008)
 Global_Distribution_of_Plant-Extractable_Water_Capacity_of_Soil
 Nelson_institute_Atlas of the Biosphere 
-
 Nitrogen Deposition onto the United States and Western Europe
 Global Gridded 1-km Annual Soil Respiration and Uncertainty Derived from SRDB V3
 EARTHSTAT
@@ -52,3 +51,5 @@ ODIAC Fossil Fuel CO2 Emissions Dataset
 Global aboveground and belowground biomass carbon density maps for the year 2010
 ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0
 NASAs Ocean Biology Processing Group
+European_Drought_Observatory
+CMCC-BioClimInd

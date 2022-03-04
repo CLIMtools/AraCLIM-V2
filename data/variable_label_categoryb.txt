@@ -1,10 +1,10 @@
 lng	Longitude (degrees)	Coordinates
 lat	Latitude (degrees)	Coordinates
-id	id	-
-name	name	-
-country	country	-
-CS_number	CS_number	-
-group	group	-
+id	-	
+name	-	
+country	-	
+CS_number	-	
+group	-	
 CO_Spring	MOPITT Carbon monoxide spring (ppbv)	Measurements_of_Pollution_In_The_Troposphere_(MOPITT)
 CO_Summer	MOPITT Carbon monoxide summer (ppbv)	Measurements_of_Pollution_In_The_Troposphere_(MOPITT)
 NO2_Spring	OMI Nitrogen dioxide spring (billion molecules/mm2)	Ozone_Monitoring_Instrument_(OMI)
@@ -53,37 +53,37 @@ WB_TEMP	WORLD BANK Air temperature at 2 m above ground level (Celsius)	WORLD_BAN
 WB_ELE	WORLD BANK Terrain elevation above sea level (meters)	WORLD_BANK_Global_Solar_Atlas
 GPCC_Spring	GPCC Precipitation spring (mm)	GPCC_Global_Precipitation_Climatology_Centre__Full_Data_Reanalysis_Version_7
 GPCC_Summer	GPCC Precipitation summer (mm)	GPCC_Global_Precipitation_Climatology_Centre__Full_Data_Reanalysis_Version_7
-WC2_Tmin_spring	WorldClim Minimum temperature spring (Celsius)	WorldClim_Version2
-WC2_Tmin_summer	WorldClim Minimum temperature summer (Celsius)	WorldClim_Version2
-WC2_Tmax_spring	WorldClim Maximum temperature spring (Celsius)	WorldClim_Version2
-WC2_Tmax_summer	WorldClim Maximum temperature summer (Celsius)	WorldClim_Version2
-WC2_Average_temperature_spring	WorldClim average temperature spring (Celsius)	WorldClim_Version2
-WC2_Average_temperature_summer	WorldClim average temperature summer (Celsius)	WorldClim_Version2
-WC2_Pre_spring	WorldClim precipitation spring (mm)	WorldClim_Version2
-WC2_Pre_summer	WorldClim precipitation summer (mm)	WorldClim_Version2
-WC2_Solar_radiation_spring	WorldClim solar radiation spring (kJ m-2 day-1)	WorldClim_Version2
-WC2_Solar_radiation_summer	WorldClim solar radiation summer (kJ m-2 day-1)	WorldClim_Version2
-WC2_Water_vapor_pressure_spring	WorldClim water Vapor Pressure Spring (kPa)	WorldClim_Version2
-WC2_Water_vapor_pressure_summer	WorldClim water Vapor Pressure Summer (kPa)	WorldClim_Version2
-WC2_BIO1	WorldClim BIO1 = Annual mean temperature (Celsius)	WorldClim_Version2
-WC2_BIO2	WorldClim BIO2 = Mean diurnal range (Celsius)	WorldClim_Version2
-WC2_BIO3	WorldClim BIO3 = Isothermality (Celsius)	WorldClim_Version2
-WC2_BIO4	WorldClim BIO4 = Temperature seasonality (Celsius)	WorldClim_Version2
-WC2_BIO5	WorldClim BIO5 = Max temperature of warmest month (Celsius)	WorldClim_Version2
-WC2_BIO6	WorldClim BIO6 = Min temperature of coldest month (Celsius)	WorldClim_Version2
-WC2_BIO7	WorldClim BIO7 = Temperature annual range (Celsius)	WorldClim_Version2
-WC2_BIO8	WorldClim BIO8 = Mean temperature of wettest quarter (Celsius)	WorldClim_Version2
-WC2_BIO9	WorldClim BIO9 = Mean temperature of driest quarter (Celsius)	WorldClim_Version2
-WC2_BIO10	WorldClim BIO10 = Mean temperature of warmest quarter (Celsius)	WorldClim_Version2
-WC2_BIO11	WorldClim BIO11 = Mean temperature of coldest quarter (Celsius)	WorldClim_Version2
-WC2_BIO12	WorldClim BIO12 = Annual precipitation (mm)	WorldClim_Version2
-WC2_BIO13	WorldClim BIO13 = Precipitation of wettest month (mm)	WorldClim_Version2
-WC2_BIO14	WorldClim BIO14 = Precipitation of driest month (mm)	WorldClim_Version2
-WC2_BIO15	WorldClim BIO15 = Precipitation seasonality (mm)	WorldClim_Version2
-WC2_BIO16	WorldClim BIO16 = Precipitation of wettest quarter (mm)	WorldClim_Version2
-WC2_BIO17	WorldClim BIO17 = Precipitation of driest quarter (mm)	WorldClim_Version2
-WC2_BIO18	WorldClim BIO18 = Precipitation of warmest quarter (mm)	WorldClim_Version2
-WC2_BIO19	WorldClimBIO19 = Precipitation of coldest quarter (mm)	WorldClim_Version2
+WC2_Tmin_spring	WorldClim Minimum temperature spring (Celsius)	WorldClim_Version2.1
+WC2_Tmin_summer	WorldClim Minimum temperature summer (Celsius)	WorldClim_Version2.1
+WC2_Tmax_spring	WorldClim Maximum temperature spring (Celsius)	WorldClim_Version2.1
+WC2_Tmax_summer	WorldClim Maximum temperature summer (Celsius)	WorldClim_Version2.1
+WC2_Average_temperature_spring	WorldClim average temperature spring (Celsius)	WorldClim_Version2.1
+WC2_Average_temperature_summer	WorldClim average temperature summer (Celsius)	WorldClim_Version2.1
+WC2_Pre_spring	WorldClim precipitation spring (mm)	WorldClim_Version2.1
+WC2_Pre_summer	WorldClim precipitation summer (mm)	WorldClim_Version2.1
+WC2_Solar_radiation_spring	WorldClim solar radiation spring (kJ m-2 day-1)	WorldClim_Version2.1
+WC2_Solar_radiation_summer	WorldClim solar radiation summer (kJ m-2 day-1)	WorldClim_Version2.1
+WC2_Water_vapor_pressure_spring	WorldClim water Vapor Pressure Spring (kPa)	WorldClim_Version2.1
+WC2_Water_vapor_pressure_summer	WorldClim water Vapor Pressure Summer (kPa)	WorldClim_Version2.1
+WC2_BIO1	WorldClim BIO1 = Annual mean temperature (Celsius)	WorldClim_Version2.1
+WC2_BIO2	WorldClim BIO2 = Mean diurnal range (Celsius)	WorldClim_Version2.1
+WC2_BIO3	WorldClim BIO3 = Isothermality (Celsius)	WorldClim_Version2.1
+WC2_BIO4	WorldClim BIO4 = Temperature seasonality (Celsius)	WorldClim_Version2.1
+WC2_BIO5	WorldClim BIO5 = Max temperature of warmest month (Celsius)	WorldClim_Version2.1
+WC2_BIO6	WorldClim BIO6 = Min temperature of coldest month (Celsius)	WorldClim_Version2.1
+WC2_BIO7	WorldClim BIO7 = Temperature annual range (Celsius)	WorldClim_Version2.1
+WC2_BIO8	WorldClim BIO8 = Mean temperature of wettest quarter (Celsius)	WorldClim_Version2.1
+WC2_BIO9	WorldClim BIO9 = Mean temperature of driest quarter (Celsius)	WorldClim_Version2.1
+WC2_BIO10	WorldClim BIO10 = Mean temperature of warmest quarter (Celsius)	WorldClim_Version2.1
+WC2_BIO11	WorldClim BIO11 = Mean temperature of coldest quarter (Celsius)	WorldClim_Version2.1
+WC2_BIO12	WorldClim BIO12 = Annual precipitation (mm)	WorldClim_Version2.1
+WC2_BIO13	WorldClim BIO13 = Precipitation of wettest month (mm)	WorldClim_Version2.1
+WC2_BIO14	WorldClim BIO14 = Precipitation of driest month (mm)	WorldClim_Version2.1
+WC2_BIO15	WorldClim BIO15 = Precipitation seasonality (mm)	WorldClim_Version2.1
+WC2_BIO16	WorldClim BIO16 = Precipitation of wettest quarter (mm)	WorldClim_Version2.1
+WC2_BIO17	WorldClim BIO17 = Precipitation of driest quarter (mm)	WorldClim_Version2.1
+WC2_BIO18	WorldClim BIO18 = Precipitation of warmest quarter (mm)	WorldClim_Version2.1
+WC2_BIO19	WorldClimBIO19 = Precipitation of coldest quarter (mm)	WorldClim_Version2.1
 CHELSA_Tmin_spring	CHELSA Minimum temperature spring (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)
 CHELSA_Tmin_summer	CHELSA Minimum temperature summer (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)
 CHELSA_Tmax_spring	CHELSA Maximum temperature spring (Celsius)	CHELSA_(Climatologies_at_high_resolution_for_the_earths_land_surface_areas)
@@ -437,3 +437,42 @@ Envirem_PET_Warmest_Quarter	Envirem PET Warmest Quarter (mm/month)	ENVIREM:_ENVI
 Envirem_PET_Wettest_Quarter	Envirem PET Wettest Quarter (mm/month)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0
 Envirem_Thermicity_Index	Envirem Thermicity Index (Index)	ENVIREM:_ENVIronmental_Rasters_for_Ecological_Modeling_version_1.0
 GMT_intermediate_coast_distance	GSHHG distance to the coast (Km)	NASAs Ocean Biology Processing Group
+EDO_SPI_spring	Standardized Precipitation Index_Spring	European_Drought_Observatory
+EDO_SPI_summer	Standardized Precipitation Index_Summer	European_Drought_Observatory
+EDO_FAPAR_Spring	Fraction of Absorbed Photosynthetically Active Radiation_Spring	European_Drought_Observatory
+EDO_FAPAR_Summer	Fraction of Absorbed Photosynthetically Active Radiation_Summer	European_Drought_Observatory
+CMCC_BIOCLIM_BIO1	CMCCBIO1 = Annual mean temperature (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO2	CMCCBIO2 = Mean diurnal range (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO3	CMCCBIO3 = Isothermality (%)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO4	CMCCBIO4 = Temperature seasonality (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO5	CMCCBIO5 = Max temperature of warmest month (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO6	CMCCBIO6 = Min temperature of coldest month (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO7	CMCCBIO7 = Temperature annual range (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO8	CMCCBIO8 = Mean temperature of wettest quarter (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO9	CMCCBIO9 = Mean temperature of driest quarter (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO10	CMCCBIO10 = Mean temperature of warmest quarter (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO11	CMCCBIO11 = Mean temperature of coldest quarter (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO12	CMCCBIO12 = Annual precipitation (mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO13	CMCCBIO13 = Precipitation of wettest month (mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO14	CMCCBIO14 = Precipitation of driest month (mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO15	CMCCBIO15 = Precipitation seasonality (%)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO16	CMCCBIO16 = Precipitation of wettest quarter (mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO17	CMCCBIO17 = Precipitation of driest quarter (mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO18	CMCCBIO18 = Precipitation of warmest quarter (mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO19	CMCCBIO19 = Precipitation of coldest quarter (mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO20	CMCCBIO20 = Ellenberg quotient (Celsius/mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO21	CMCCBIO21 = Yearly positive temperature (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO22	CMCCBIO22 = Sum of annual temperature (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO23	CMCCBIO23 = Ombrotermic index (mm/Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO24	CMCCBIO24 = Yearly positive precipitation (mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO25	CMCCBIO25 = Modified Kira coldness index (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO26	CMCCBIO26 = Modified Kira warmth index (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO27	CMCCBIO27 = Simplified continentality index (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO28	CMCCBIO28 = Mean temperature of warmest month (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO29	CMCCBIO29 = Mean temperature of coldest month (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO30	CMCCBIO30 = Mean temperature of driest month (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO31	CMCCBIO31 = Mean temperature of wettest month (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO32	CMCCBIO32 = Modified Thermicity index (Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO33	CMCCBIO33 = Ombrothermic index of summer and the previous month (mm/Celsius)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO34	CMCCBIO34 = Potential Evapotranspiration Hargreaves (mm)	CMCC-BioClimInd
+CMCC_BIOCLIM_BIO35	CMCCBIO35 = Potential Evapotranspiration Thornthwaite (mm)	CMCC-BioClimInd

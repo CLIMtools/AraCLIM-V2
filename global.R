@@ -48,7 +48,7 @@ for(i in 1:n) {
 
 # a data.frame
 
-FULL <- SpatialPointsDataFrame(FULL.val[,c("Longitude (degrees)", "Latitude (degrees)")], FULL.val[,1:439])
+FULL <- SpatialPointsDataFrame(FULL.val[,c("Longitude (degrees)", "Latitude (degrees)")], FULL.val[,1:478])
 
 #########
 

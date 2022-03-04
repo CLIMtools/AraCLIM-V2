@@ -256,7 +256,7 @@ shinyServer(function(input, output) {
             axis = list(stroke = "red"),title = list(fontSize = 20),
             labels = list(fontSize = 16)))  %>% 
           add_axis("y", title = yVar(), grid = TRUE, title_offset = 60,  properties = axis_props(
-            axis = list(stroke = "blue"),title = list(fontSize = 20),
+            axis = list(stroke = "blue"),title = list(fontSize = 10),
             labels = list(fontSize = 16)))  %>%      
           layer_points(size := input_slider(1, 100, value = 50,id='size',label = 'Size'),
                        opacity := 1,
@@ -278,10 +278,10 @@ shinyServer(function(input, output) {
         add_axis("x", title = "Environmental variable A (mapped)",properties = axis_props(
           axis = list(stroke = "red"),
           title = list(fontSize = 20),
-          labels = list(fontSize = 10)))  %>% 
+          labels = list(fontSize = 12)))  %>% 
         add_axis("y", title = 'count', properties = axis_props(
           axis = list(stroke = "red"),
-          title = list(fontSize = 20),
+          title = list(fontSize = 15),
           labels = list(fontSize = 10)))  %>%   
         
         layer_histograms(width = 0.5, center = 20, fill := "red") %>%     
