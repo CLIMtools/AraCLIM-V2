@@ -11,7 +11,7 @@ Please visit the [Assmann lab](http://www.personal.psu.edu/sma3/) to learn about
 
 The environmental datast compiled in our study is available using the download buttom. Within the data folder as well as in the app itself, there is information on the descriptors and the source of each of the environmental parameters used. 
 
-## [Citation]
+## Citation
 **-Ferrero‑Serrano,Á, Sylvia, MM, Forstmeier, PC, Olson, AJ, Ware, D,Bevilacqua, PC & Assmann, SM** (2022). Experimental demonstration and pan‑structurome prediction of climate‑associated riboSNitches in Arabidopsis. Under review in Genome Biology.
 
 **-Ferrero-Serrano, Á & Assmann SM.** (2019) Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5.
