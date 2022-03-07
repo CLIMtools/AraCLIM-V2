@@ -9,7 +9,7 @@ Please visit the [Assmann lab](http://www.personal.psu.edu/sma3/) to learn about
 
 ## [Data availability](https://github.com/CLIMtools/AraCLIM/tree/master/data)
 
-The environmental datast compiled in our study is available using the download buttom. One of the data files contains the data, and the second one contains the description and the source of each of the environmental parameters used. For a more detailed description of these, please check the "Description of climate variables" tab, and the SI of [our study](https://www.nature.com/articles/s41559-018-0754-5).
+The environmental datast compiled in our study is available using the download buttom. Within the data folder as well as in the app itself, there is information on the descriptors and the source of each of the environmental parameters used. 
 
 ## [Citation]
 **-Ferrero‑Serrano,Á, Sylvia, MM, Forstmeier, PC, Olson, AJ, Ware, D,Bevilacqua, PC & Assmann, SM** (2022). Experimental demonstration and pan‑structurome prediction of climate‑associated riboSNitches in Arabidopsis. Under review in Genome Biology.
